@@ -1,4 +1,4 @@
-# 🎬 MovieVault — App React Native
+# 🎬 PobreFlix — App React Native
 
 Aplicativo mobile para gerenciar sua coleção de filmes, desenvolvido com **React Native** e **Expo**.
 
