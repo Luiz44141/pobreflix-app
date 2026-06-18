@@ -24,7 +24,7 @@ Aplicativo mobile para gerenciar sua coleção de filmes, desenvolvido com **Rea
 ## Estrutura do Projeto
 
 ```
-movievault-app/
+pobreflix-app/
 ├── src/
 │   ├── screens/
 │   │   ├── HomeScreen.js    # Listagem com busca e filtros
